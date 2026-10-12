@@ -1,0 +1,4 @@
+/data/raw/images/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
